@@ -1,9 +1,10 @@
 # **Feed Reader Testing Udacity Project**
 _This is the fifth project for frontend nanodegree track_
+
+
 ![feed reader testing](http://res.cloudinary.com/esraa/image/upload/v1530703692/feedReader.png)
 ## Description
-In this project I am practasing unit testing using `Jasmine` which is javascript testing framework and the code is in `jQuery library`.
-[feed reader testing]()_
+In this project I am practising unit testing using `Jasmine` which is javascript testing framework and the code is in `jQuery library`.
 ## what did I test ??
 I tested some important features of my RSS fead reader ,I made 3 test suits each suit has some tests **:-**
 * This is my first test - it tests to make sure that the allFeeds variable has been defined and that it is not
